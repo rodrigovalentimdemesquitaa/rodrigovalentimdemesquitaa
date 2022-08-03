@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Olá, me chamo Rodrigo!**
+### Bem vindo ao meu perfil GitHub 👋
+
+
+- 🌱 Atualmente estou aprendendo o framework Laravel
+
+
+          
+
+
+
+
+
