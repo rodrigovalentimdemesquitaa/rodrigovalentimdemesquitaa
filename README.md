@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Olá, me chamo Rodrigo!**
+# Olá, me chamo Rodrigo!
 ### Bem vindo ao meu perfil GitHub 👋
 
 
