@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+# Olá, eu sou Rodrigo Valentim!
 
+<div>
+<a href="https://github.com/rodrigovalentimdemesquitaa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigovalentimdemesquitaa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigovalentimdemesquitaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-# Olá, me chamo Rodrigo!
-### Bem vindo ao meu perfil GitHub 👋
-
-
-- 🌱 Atualmente estou aprendendo o framework Laravel
 
 ### Ferramentas e Tecnologias
 
@@ -29,12 +30,8 @@
 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+___
           
-<div>
-<a href="https://github.com/rodrigovalentimdemesquitaa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigovalentimdemesquitaa&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigovalentimdemesquitaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 
