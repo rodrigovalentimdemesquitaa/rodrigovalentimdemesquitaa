@@ -8,9 +8,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigovalentimdemesquitaa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
-
-### Ferramentas e Tecnologias
-
+##
+          
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
@@ -18,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"  width="38" height="38"/>
 </div>
 
-### Contatos:
+##
 
 <div>
 <a href="https://www.youtube.com/channel/UC_b0R5Nm8RoAX2Lv9gw66iA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
